@@ -1,1 +1,2 @@
-A new file in the fstjs directory
+A new file in the fstjs directory.
+Added a new line.
